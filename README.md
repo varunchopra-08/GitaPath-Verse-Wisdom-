@@ -1,5 +1,5 @@
 # Gita Path: Verse & Wisdom
-This app was developed fro a client ,So code is not public and private to the client
+This app was developed for a client ,So code is not public 
 Bhagavad Gita companion app built with Flutter. The shipped builds on Play Store and App Store contain the complete experience with the features below.
 
 ## Feature Highlights
