@@ -14,8 +14,8 @@ Bhagavad Gita companion app built with Flutter. The shipped builds on Play Store
 - Rich media helpers: cached network images, audio playback, text-to-speech, share, and image picker
 
 ## Distribution
-- Google Play: [add your Play listing link here](https://play.google.com/store/apps/details?id=com.geeta.geeta_app)
-- Apple App Store: [add your App Store link here](https://apps.apple.com/in/app/gitapath-verse-wisdom/id6754448724)
+- Google Play: [Play Store link here](https://play.google.com/store/apps/details?id=com.geeta.geeta_app)
+- Apple App Store: [App Store link here](https://apps.apple.com/in/app/gitapath-verse-wisdom/id6754448724)
 Client code is not included in this repo; server/admin code and credentials stay private.
 
 ## Tech Stack
